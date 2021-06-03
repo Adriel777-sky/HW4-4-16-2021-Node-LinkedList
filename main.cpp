@@ -1,6 +1,6 @@
 /*Adriel A. Okolo
 HW4 Program1 4/16/2021
-c++ program that uses nudes, Linkedlist and void functions. */
+c++ program that uses nodes, Linkedlist and void functions. */
 
 #include<iostream>
 
